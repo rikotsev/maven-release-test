@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f63571d-f28c-47cc-b710-8493231ce50d" name="Changes" comment="build: adding a changelog">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/release-please.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/release-please.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f63571d-f28c-47cc-b710-8493231ce50d" name="Changes" comment="feat: adding a cool item thing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727208855196</updated>
-      <workItem from="1727208900305" duration="595000" />
+      <workItem from="1727208900305" duration="899000" />
     </task>
     <task id="LOCAL-00001" summary="build: adding a release please workflow">
       <option name="closed" value="true" />
@@ -82,16 +86,54 @@
       <option name="project" value="LOCAL" />
       <updated>1727209474637</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactor: modifying the default branch for the action">
+      <option name="closed" value="true" />
+      <created>1727209513159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727209513159</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: adding a cool thing item">
+      <option name="closed" value="true" />
+      <created>1727209582294</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727209582294</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: adding a cool item thing">
+      <option name="closed" value="true" />
+      <created>1727209794444</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727209794444</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build: adding a release please workflow" />
     <MESSAGE value="build: adding a changelog" />
-    <option name="LAST_COMMIT_MESSAGE" value="build: adding a changelog" />
+    <MESSAGE value="refactor: modifying the default branch for the action" />
+    <MESSAGE value="feat: adding a cool thing item" />
+    <MESSAGE value="feat: adding a cool item thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adding a cool item thing" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
