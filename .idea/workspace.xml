@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f63571d-f28c-47cc-b710-8493231ce50d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/release-please.yml" afterDir="false" />
+    <list default="true" id="4f63571d-f28c-47cc-b710-8493231ce50d" name="Changes" comment="build: adding a changelog">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/release-please.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/release-please.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -41,6 +44,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -56,12 +64,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727208855196</updated>
-      <workItem from="1727208900305" duration="322000" />
+      <workItem from="1727208900305" duration="595000" />
     </task>
+    <task id="LOCAL-00001" summary="build: adding a release please workflow">
+      <option name="closed" value="true" />
+      <created>1727209432478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727209432478</updated>
+    </task>
+    <task id="LOCAL-00002" summary="build: adding a changelog">
+      <option name="closed" value="true" />
+      <created>1727209474637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727209474637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="build: adding a release please workflow" />
+    <MESSAGE value="build: adding a changelog" />
+    <option name="LAST_COMMIT_MESSAGE" value="build: adding a changelog" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
